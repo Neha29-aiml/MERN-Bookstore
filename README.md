@@ -76,13 +76,6 @@ The application will run on:
 http://localhost:3000
 ```
 
----
-
-## 📸 Screenshots
-
-(Add screenshots of your project UI here)
-
----
 
 ## 📈 Future Improvements
 
